@@ -1,0 +1,16 @@
+#The ord() function returns the number representing the unicode code of a specified character.
+z = ord("-")
+
+print(z)
+
+r = ord("r")
+
+print(r)
+
+w = ord("w")
+
+print(w)
+
+x = ord("x")
+
+print(x)
